@@ -17,3 +17,4 @@ After editing the keymap file upload it to the original folder using the "Add fi
  	![alt text](rowcolmap.png)
   The matrix transform can be found in bt60.dts, more information on how to do the matrix transforms can be found in the official ZMK documentation [here](https://zmkfirmware.dev/docs/development/new-shield#optional-matrix-transform)
   We're always willing to accept pull requests if you've developed your own layouts :)
+
